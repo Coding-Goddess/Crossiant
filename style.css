@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    margin: 20;
+
+}
+p {
+    text-align: center;
+}
+.navigation-links {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+  }
+  .navigation-links a {
+    margin: 20px;
+  }
+
+.main-photo {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px;
+    width: 300px;
+    display: block;
+}
